@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Document</title>
+    <link rel="stylesheet" href="./main.css">
+
+
+</head>
+<body>
+    <h1>Rotation with CSS</h1>
+    <div class ="flower">
+        <img src="https://free-png.ru/wp-content/uploads/2021/05/free-png.ru-135-370x298.png" alt="flower">
+    </div>
+  
+</body>
+</html>                                                                                                                                                                
+
