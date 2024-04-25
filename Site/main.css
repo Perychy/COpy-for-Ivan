@@ -1,0 +1,23 @@
+@import url('https://free-png.ru/wp-content/uploads/2021/05/free-png.ru-135-370x298.png');
+*{
+    font-family: "Jacquard 12 Charted", system-ui;
+}                                                            
+.flower img{
+    width:200px;
+    animation:rotate 5s linear infinite;
+}      
+.flower{
+   
+    width:500px;
+    margin:auto;
+    animation:rotate2 5s linear infinite;
+}                                   
+@keyframes rotate{
+    from{transform: rotate(0deg);}
+    to {transform: rotate(-360deg);}
+}
+
+@keyframes rotate2{
+    from{transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}
